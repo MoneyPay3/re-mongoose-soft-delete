@@ -29,6 +29,6 @@
   "devDependencies": {
     "chai": "3.5.0",
     "faker": "3.0.1",
-    "mongoose": "4.4.4"
+    "mongoose": "5.7.7"
   }
 }
